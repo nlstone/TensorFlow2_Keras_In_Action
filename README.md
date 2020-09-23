@@ -1,7 +1,7 @@
 # TensorFlow2_Keras_In_Action  
 License: GPL3.0  
 Studing Machine Learning and Deep Learning by Jupyter Notebook, this is the best way in my idea.  
-I'll try to implement all common machine learning model with TensorFlow2 & Keras by Jupyter Notebook.  
+I'm trying to implement all common machine learning models with TensorFlow2 & Keras by Jupyter Notebook.  
 In the first phase, plan to implement these following modules:  
 1 Tensorflow and keras basic  
 2 Image claasification  
